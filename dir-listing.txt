@@ -1,0 +1,10 @@
+total 30
+drwxr-xr-x+ 1 Java None    0 Oct 28 10:22 .
+drwxrwxrwt+ 1 Java None    0 Oct 28 09:49 ..
+-rw-------  1 Java None   22 Oct 28 09:50 .bash_history
+-rwxr-xr-x  1 Java None 1494 Oct 28 09:47 .bash_profile
+-rwxr-xr-x  1 Java None 6054 Oct 28 09:47 .bashrc
+-rw-r--r--  1 Java None  164 Oct 28 10:22 .gitconfig
+-rwxr-xr-x  1 Java None 1919 Oct 28 09:47 .inputrc
+-rwxr-xr-x  1 Java None 1236 Oct 28 09:47 .profile
+drwxr-xr-x+ 1 Java None    0 Oct 28 11:19 jordan-project
